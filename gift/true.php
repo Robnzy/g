@@ -1,6 +1,6 @@
 <?php
 // قائمة الأسماء الصحيحة
-$valid_names = ["لمى", "لملم", "لمومتي", "لمو","Lama","lama","LAMA"];
+$valid_names = "سارة", "ساره", "سارتي", "سوستي","سوسة","Sara","Sarah";
 
 // التحقق من إرسال البيانات عن طريق POST
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
